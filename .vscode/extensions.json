@@ -1,0 +1,13 @@
+{
+    "recommendations": [
+        "editorconfig.editorconfig",
+        "dbaeumer.vscode-eslint",
+        "antfu.iconify",
+        "nuxtr.nuxtr-vscode",
+        "vue.volar",
+        "antfu.unocss"
+    ],
+    "unwantedRecommendations": [
+        "esbenp.prettier-vscode"
+    ]
+}
